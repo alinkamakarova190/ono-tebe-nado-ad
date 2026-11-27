@@ -5,8 +5,13 @@
 }
 
 body {
+<<<<<<< HEAD
   min-width: 1100px;
   margin: 0;
+=======
+  width: 1100px;
+  margin: 0 auto;
+>>>>>>> 8ca99814c12691f3995b4649a4bbcb5bf20e7b9e
   font-family: Raleway, sans-serif;
 }
 
@@ -32,3 +37,10 @@ a {
 img {
   width: 100%;
 }
+<<<<<<< HEAD
+=======
+
+button {
+  font: inherit;
+}
+>>>>>>> 8ca99814c12691f3995b4649a4bbcb5bf20e7b9e
